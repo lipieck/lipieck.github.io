@@ -1,11 +1,20 @@
-- name: HTML5/CSS3
+- name: DAX
   percentage: 90
-  color: danger
+  color: primary
 
-- name: Go
-  percentage: 80
-  color:
+- name: HTML/CSS
+  percentage: 70
+  color: info
+
+- name: Power Apps Suite
+  percentage: 70
+  color: success
+  
+- name: VBA
+  percentage: 60
+  color: secondary
 
 - name: Python
-  percentage: 70
-  color: secondary
+  percentage: 55
+  color: success
+

@@ -1,17 +1,21 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, NHL Stenden University of Applied Sciences, Netherlands
+  from: 2020
+  to: 2024
+  description: Graduated in 2024 with a Bachelor of Science, this course taught me a lot about project management, professional work ethics and the core fundamentals of logistics and working with processes.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Freight Forwarding internship - Interlogic, Netherlands
+  from: 2022
+  to: 2023
+  description: I worked on multiple analytical projects regarding logistics and reporting, including managing a SQL Server database, building reports in Tableau using geolocation data. Alongside this project, I organised freight transports as part of my daily routine.
+
+- title: Purchasing and Procurement internship - Shell, Krakow
+  from: 2023
+  to: 2023
+  description: In this internship I mostly focused on building automation solutions for my team, the biggest achievement being an interactive VBA script that would attach itself to the SAP GUI and perform mundane tasks that had to cyclically be completed. 
+                As an Intern I was tasked with filling this data in at the end of the week, however I found that this could be automated and proposed the VBA script solution to my management. In total it took around 4-5 hours to fill in this data each week and the script handled it all in less than an hour.
+                All of this gave me a lot of insight into using SAP and building automations for it.
+
+- title: Business Analytics internship - Medtronic, Netherlands
+  from: 2024
+  to: 2024
+  description: During this internship I built a variety of Power BI dashboards using custom HTML visuals and DAX measures to implement more statistical insight into processes. As part of my graduation project I created a predcitive dashboard that utilised the specific nature of products to predict their expiration dates and show where optimisations could be made.         
