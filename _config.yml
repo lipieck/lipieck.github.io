@@ -3,7 +3,7 @@ title               : I'm Konrad :wave
 description         : >-
                       I'm a 23 year old guy who does computer things and cooks a lot.
 
-baseurl             : "portfolio/"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lipieck/lipieck.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
