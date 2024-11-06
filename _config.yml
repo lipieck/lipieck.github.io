@@ -1,10 +1,9 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : I'm Konrad :wave
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "about"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+                      I'm a 23 year old guy who does computer things and cooks a lot.
+
+baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lipieck/lipieck.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -25,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Konrad Lipiec
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://cdn.discordapp.com/attachments/1290593409257701376/1303371436253122673/image.jpg?ex=672cd43d&is=672b82bd&hm=aadcd19f5d88866f667b9dd5898a9bfdec9d919ab1b451f9c35e05d8845c72e4&
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com

@@ -3,16 +3,18 @@ layout: default
 permalink: /
 ---
 
-# **About Me**
+<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+      </div>
+    </div>
 
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-<div class="row">
-{% include about/timeline.html %}
+  </div>
 </div>
