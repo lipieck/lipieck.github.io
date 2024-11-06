@@ -3,7 +3,7 @@ title               : I'm Konrad :wave
 description         : >-
                       I'm a 23 year old guy who does computer things and cooks a lot.
 
-baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "portfolio/"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lipieck/lipieck.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -24,23 +24,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Konrad Lipiec
-  image             : https://cdn.discordapp.com/attachments/1290593409257701376/1303371436253122673/image.jpg?ex=672cd43d&is=672b82bd&hm=aadcd19f5d88866f667b9dd5898a9bfdec9d919ab1b451f9c35e05d8845c72e4&
-  behance           : your_username
+  image             : https://cdn.discordapp.com/attachments/1290593409257701376/1303759739930280068/image_1_1.png?ex=672cec60&is=672b9ae0&hm=490c338b5832ff04c8f40b3fd652239bab176c798b592739e616fce022ee665a&
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : lipieckonradbis@gmail.com
+#  facebook          : your_username
+  github            : lipieck
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : lipieck
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
