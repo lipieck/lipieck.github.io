@@ -19,6 +19,8 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/test2.md
+  - pages/test1.html
 
 
 ### Author Info ###
