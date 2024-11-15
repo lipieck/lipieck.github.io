@@ -1,7 +1,7 @@
 ### Site Settings ###
-title               : I'm Konrad, hi!
+title               : Konrad Lipiec's portfolio
 description         : >-
-                      I'm a 23 year old guy who does computer things and cooks a lot.
+                      Cooking addict who also does programming.
 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lipieck/lipieck.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
