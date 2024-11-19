@@ -18,3 +18,7 @@ permalink: /
 
   </div>
 </div>
+<p class="text-center">
+{% include elements/button.html link="https://lipieck.github.io/about/" text="About" %}{% include elements/button.html link="https://lipieck.github.io/projects/" text="Projects" %}
+{% include elements/button.html link="https://lipieck.github.io/blog/" text="Blog" %}
+</p>
