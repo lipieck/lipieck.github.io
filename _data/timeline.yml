@@ -1,19 +1,18 @@
+  - title: Student, Krakow University of Economics , Poland
+  from: 2025
+  to: Now
+  description: Currently pursuing a Masters in Applied Informatics on the weekends. Gained experience in customer mapping, UI and UX analytics including heatmaps, as well as IT project management practices.
 
 
+  - title: Continuous Improvement Specialist, Philip Morris International , Poland
+  from: 2025
+  to: Now
+  description: Working full-time as a CI Specialist with a focus on building automations, analytics and coming up with work improvements in my team using a wide array of technological stacks. Developed utilising: Javascript, Power BI, Python, VBA, Power Query and more.
 
-  
-
-
-
-- title: Student, NHL Stenden University of Applied Sciences, Netherlands
-  from: 2020
+  - title: Business Analytics internship - Medtronic, Netherlands
+  from: 2024
   to: 2024
-  description: Graduated in 2024 with a Bachelor of Science, this course taught me a lot about project management, professional work ethics and the core fundamentals of logistics and working with processes.
-
-- title: Freight Forwarding internship - Interlogic, Netherlands
-  from: 2022
-  to: 2023
-  description: I worked on multiple analytical projects regarding logistics and reporting, including managing a SQL Server database, building reports in Tableau using geolocation data. Alongside this project, I organised freight transports as part of my daily routine.
+  description: During this internship I built a variety of Power BI dashboards using custom HTML visuals and DAX measures to implement more statistical insight into processes. As part of my graduation project I created a predcitive dashboard that utilised the specific nature of products to predict their expiration dates and show where optimisations could be made.         
 
 - title: Purchasing and Procurement internship - Shell, Krakow
   from: 2023
@@ -22,17 +21,18 @@
                 As an Intern I was tasked with filling this data in at the end of the week, however I found that this could be automated and proposed the VBA script solution to my management. In total it took around 4-5 hours to fill in this data each week and the script handled it all in less than an hour.
                 All of this gave me a lot of insight into using SAP and building automations for it.
 
-- title: Business Analytics internship - Medtronic, Netherlands
-  from: 2024
+- title: Freight Forwarding internship - Interlogic, Netherlands
+  from: 2022
+  to: 2023
+  description: I worked on multiple analytical projects regarding logistics and reporting, including managing a SQL Server database, building reports in Tableau using geolocation data. Alongside this project, I organised freight transports as part of my daily routine.
+
+
+- title: Student, NHL Stenden University of Applied Sciences, Netherlands
+  from: 2020
   to: 2024
-  description: During this internship I built a variety of Power BI dashboards using custom HTML visuals and DAX measures to implement more statistical insight into processes. As part of my graduation project I created a predcitive dashboard that utilised the specific nature of products to predict their expiration dates and show where optimisations could be made.         
+  description: Graduated in 2024 with a Bachelor of Science, this course taught me a lot about project management, professional work ethics and the core fundamentals of logistics and working with processes.
 
-  - title: Continuous Improvement Specialist, Philip Morris International , Poland
-  from: 2025
-  to: Now
-  description: Working full-time as a CI Specialist with a focus on building automations, analytics and coming up with work improvements in my team using a wide array of technological stacks. Developed utilising: Javascript, Power BI, Python, VBA, Power Query and more.
 
-  - title: Student, Krakow University of Economics , Poland
-  from: 2025
-  to: Now
-  description: Currently pursuing a Masters in Applied Informatics on the weekends. Gained experience in customer mapping, UI and UX analytics including heatmaps, as well as IT project management practices.
+
+
+
