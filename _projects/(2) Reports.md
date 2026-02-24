@@ -9,7 +9,7 @@ description: A list of the projects I built for work.
 
 This report was built in Tableau utilising geographical coordinate data to map out the routes of truck deliveries and compare the distances to what was reported by truck drivers. This allowed us to compare estimated vs actual driven distances and better adjust our pricing model to compensate.
 
-![preview](https://jimdo-storage.freetls.fastly.net/image/362163736/9be16d53-d4e2-4c63-99af-7698887cc34c.png)
+![preview](https://github.com/lipieck/lipieck.github.io/blob/main/assets/Zrzut%20ekranu%202026-02-24%20223128.png?raw=true)
 
 # Predicting Expiration of Medical Products
 
